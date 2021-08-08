@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="399.984" height="65.835" viewBox="0 0 1700 225">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 154.167px;
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-family: "Source Code Pro";
+        font-weight: 200;
+        text-transform: uppercase;
+      }
+
+      .cls-3 {
+        fill: #cacaca;
+        font-size: 145.833px;
+      }
+    </style>
+  </defs>
+  <text id="GoomerInmobiliaria" class="cls-1" x="4.1" y="200.961"><tspan class="cls-2">Goomer</tspan><tspan class="cls-3">INMOBILIARIA</tspan></text>
+</svg>
